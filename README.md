@@ -1,0 +1,1 @@
+This project aims to classify research papers into various categories using a multi-label classification approach. It leverages the SciBERT language model for text representation and Torch for model building and training.
